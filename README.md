@@ -1,7 +1,5 @@
 
-Hey there 👋
 
-My name is Szymon Fonau and I'm the co-founder and CTO of [OctoShrew](https://octoshrew.com/) a machine learning consultancy, nowadays most my work is on private repos for our clients but I hope that soon enough I can give back to the GitHub community
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/szymon-fonau/)
 
 
